@@ -1,1 +1,1 @@
-# background-gradient-generator
+# Background-gradient-generator
